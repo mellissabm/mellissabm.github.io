@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mellissa Meisels | Political Science"
+title                    : "Mellissa Meisels"
 title_separator          : ""
 name                     : &name "Mellissa Meisels"
-description              : &description "personal description"
+description              : &description "Political Scientist"
 url                      : https://mellissabm.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
