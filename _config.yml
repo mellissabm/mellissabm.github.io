@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Mellissa Meisels"
-title_separator          : ""
+title_separator          : "|"
 name                     : &name "Mellissa Meisels"
 description              : &description "Political Scientist"
 url                      : https://mellissabm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
