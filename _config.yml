@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Mellissa Meisels"
 title_separator          : "-"
 name                     : &name "Mellissa Meisels"
-description              : &description "Political Scientist"
-url                      : https://mellissabm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Student in Political Science at Vanderbilt University"
+url                      : https://mellissameisels.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://mellissabm.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "Me.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "Me.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -75,7 +75,8 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-223746052-1
+  anonymize_ip: false
 
 
 # Site Author
