@@ -74,14 +74,10 @@ social:
 # Analytics
 analytics:
 <<<<<<< HEAD
-<<<<<<< HEAD
   provider               :  "google-universal"
 =======
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
 >>>>>>> parent of 75cd433 (add gtag)
-=======
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
->>>>>>> parent of 328ec94 (.)
   google:
     tracking_id          : UA-223746052-1
   anonymize_ip: false
