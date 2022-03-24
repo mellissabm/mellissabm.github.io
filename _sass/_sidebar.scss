@@ -76,9 +76,9 @@
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     display: block;
-    width: 36px;
+    width: auto;
     height: auto;
   }
 
@@ -86,7 +86,7 @@
     max-width: 175px;
     border-radius: 50%;
 
-    @include breakpoint($x-large)) {
+    @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
     }
@@ -96,11 +96,11 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 15px;
+  padding-right: 25px;
   line-height: 1;
 
-  @include breakpoint($x-large)) {
+  @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-left: 0;
@@ -111,7 +111,7 @@
 .author__name {
   margin: 0;
 
-  @include breakpoint($x-large)) {
+  @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
@@ -124,7 +124,7 @@
 .author__bio {
   margin: 0;
 
-  @include breakpoint($x-large)) {
+  @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
   }
