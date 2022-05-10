@@ -8,4 +8,4 @@ redirect_from:
 
 Click [here](/files/Meisels_CV_4.13.22.pdf) to view my CV.
 
-*Updated 3/20/2022*
+*Updated 4/13/2022*
