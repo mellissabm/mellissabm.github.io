@@ -12,5 +12,5 @@ I am a third-year Ph.D student in the [Department of Political Science](https://
 
 My research uses causal inference and descriptive methods as well as new data sources to answer questions about American politics, the U.S. Congress, and campaigns. In particular, I am interested in representation within both the electoral and legislative arenas. My current projects explore the relationships between legislators and their constituencies, as well as the relationships between candidates and campaign contributors.
 
-For questions, comments, or drafts of working papers, I can be reached at [mellissa.b.meisels@vanderbilt.edu](mailto:mellissa.b.meisels@vanderbilt.edu).
+For questions, comments, or drafts of working papers, I can be reached at [mellissa.b.meisels@vanderbilt.edu](mailto::mellissa.b.meisels@vanderbilt.edu).
 
