@@ -20,6 +20,8 @@ Some of my current and former research assistants are listed below:
 
 [Liam Thompson](https://www.linkedin.com/in/liam-thompson-07a1541b6/), Class of 2023
 
+[Amanda Bortner](https://www.linkedin.com/in/amanda-bortner-79709a17b?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAmanda%2FBortner), Class of 2024
+
 [Cora Chen](https://www.linkedin.com/mwlite/in/shuaichu-chen-48932a1aa), Class of 2024
 
 [Devan Wiley](https://www.linkedin.com/in/devan-wiley-02914523b/), Class of 2025
