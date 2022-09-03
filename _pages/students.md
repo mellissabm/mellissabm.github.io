@@ -8,7 +8,7 @@ Interacting with students has been one of the highlights of my time in graduate 
 
 While TAing data science courses, numerous students inquired about research opportunities to further hone their skills and gain hands-on experience. Since 2021, I have trained and managed over a dozen exceptional undergraduates to help me collect original data for my dissertation project. Hearing my RAs' perspectives on the data and project has been invaluable to my research.
 
-If you are a current Vanderbilt undergraduate who is interested in congressional elections, considering graduate school in political science or a related field, or otherwise wishing to gain hands-on experience with research and data collection, you may inquire about research assistant opportunities by emailing me at [mellissa.b.meisels@vanderbilt.edu](mailto:mellissa.b.meisels@vanderbilt.edu). During the semester, I also hold a drop-in office hour for current and prospective research assistants in my office (inside CSDI, on the 3rd floor of Commons).
+If you are a current Vanderbilt undergraduate who is interested in congressional elections, considering graduate school in political science or a related field, or otherwise wishing to gain hands-on experience with research and data collection, you may inquire about research assistant opportunities by emailing me at [mellissa.b.meisels@vanderbilt.edu](mailto:mellissa.b.meisels@vanderbilt.edu). **For Fall 2022, my drop-in office hour for current and prospective research assistants is held from 2-3pm in my office (inside CSDI, on the 3rd floor of Commons).**
 
 Some of my current and former research assistants are listed below:
 
