@@ -18,6 +18,6 @@ author_profile: true
   
 "Competition and Free-Riding in Electoral Campaigns with Outside Spending." *With Brenton Kenkel.*
 
-
+"Campaign Positions in Congressional Primaries."
 
 
