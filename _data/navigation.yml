@@ -1,9 +1,9 @@
 main:
-  - title: "Research"
-    url: /research/
-    
   - title: "CV"
     url: /files/Meisels_CV.pdf
+
+  - title: "Research"
+    url: /research/
 
   - title: "Working With Students"
     url: /students/
