@@ -73,8 +73,8 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  provider               :  "google-universal"
+  google-universal:
     tracking_id          : UA-223746052-1
 
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mellissa Meisels"
   avatar           : "MM2023.jpeg"
-  bio              : "Ph.D Candidate\nPolitical Science\nVanderbilt University"
+  bio              : "Ph.D Candidate, Political Science, Vanderbilt University"
   location         : "Nashville, TN"
   employer         : 
   pubmed           : 
