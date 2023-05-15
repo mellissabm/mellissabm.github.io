@@ -15,10 +15,12 @@ author_profile: true
 > *Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions at the donor level and in subnational contexts, yet scholars have struggled to identify the impact of House candidates' ideology on their fundraising due to the difficulty of disentangling confounded and endogenous factors. To isolate the effect of candidate positioning on fundraising success, I leverage the quasi-random variation provided by just barely nominating an extreme House candidate over a moderate. Using a regression discontinuity design on close primaries between 1990 and 2018, I find no increase in individual contributions nor decrease in corporate PAC contributions among extreme candidates across numerous model specifications, bandwidth selections, and sample compositions. These null results call into question the extent to which candidates' financial support from individual and business PAC donors is simply due to their ideology.*
 
 **Working Papers**
-  
-"Competition and Free-Riding in Electoral Campaigns with Outside Spending." *With Brenton Kenkel.*
 
-"Campaign Positioning in Congressional Primaries."
+["Positioning in Congressional Primary Campaigns∗"](/files/MM_PCPC.pdf)
+
+> *The concept of policy platform announcement is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016—2022 primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly–important primary election stage. Aside from capturing candidates’ strategic rhetoric unmediated by third-party actors, primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal–conservative dimension. After extensive aggregate–, individual–, and word–level validation, the utility of the measure is demonstrated with an application to an ongoing debate regarding nationalization severing candidates’ district ties. Estimating primary candidates’ positions independently of campaign receipts and roll-call voting facilitates investigation into the substantive relationships between public campaign rhetoric, financial contributors, and subsequent legislative behavior.*
+
+"Competition and Free-Riding in Electoral Campaigns with Outside Spending." *With Brenton Kenkel.*
 
 "More Attention, More Money? Issue Priority and Issue PAC Fundraising in House Campaigns."
 
