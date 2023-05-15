@@ -16,7 +16,7 @@ author_profile: true
 
 **Working Papers**
 
-["Positioning in Congressional Primary Campaigns∗"](/files/MM_PCPC.pdf)
+["Positioning in Congressional Primary Campaigns"](/files/MM_PCPC.pdf)
 
 > *The concept of policy platform announcement is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016—2022 primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly–important primary election stage. Aside from capturing candidates’ strategic rhetoric unmediated by third-party actors, primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal–conservative dimension. After extensive aggregate–, individual–, and word–level validation, the utility of the measure is demonstrated with an application to an ongoing debate regarding nationalization severing candidates’ district ties. Estimating primary candidates’ positions independently of campaign receipts and roll-call voting facilitates investigation into the substantive relationships between public campaign rhetoric, financial contributors, and subsequent legislative behavior.*
 
