@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in American Politics and Political Methodogy in the [Department of Political Science](https://www.vanderbilt.edu/political-science/) and a Graduate Research Affiliate in the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/)  at [Vanderbilt University](http://vanderbilt.edu/). I graduated *magna cum laude* from the [University of California, Los Angeles](http://ucla.edu/) with a B.A. in Political Science. In March 2023, I was a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. **I am on the 2023-2024 job market.**
+I am a Ph.D. candidate in American Politics and Political Methodogy in the [Department of Political Science](https://www.vanderbilt.edu/political-science/) and a Graduate Research Affiliate in the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/)  at [Vanderbilt University](http://vanderbilt.edu/). I graduated *magna cum laude* from the [University of California, Los Angeles](http://ucla.edu/) with a B.A. in Political Science. In March 2023, I was a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. **I am on the 2023--2024 job market** and my current CV can be accessed [here](/files/Meisels_CV.pdf).
 
 My research and teaching interests center around American politics with emphases on the U.S. Congress, money in politics, electoral campaigns, political organizations, legislative representation, and quantitative methodology. 
 
@@ -16,5 +16,5 @@ My dissertation project leverages original data on House campaign platforms to i
 
 Broadly, my work combines large data, natural language processing, causal inference tools, experiments, and structural estimation of formal models to further our understanding of strategic interactions among political elites.
 
-For inquiries, comments, or drafts of working papers, I can be reached at [mellissa.b.meisels@vanderbilt.edu](mailto::mellissa.b.meisels@vanderbilt.edu). You can find my current CV [here](/files/Meisels_CV.pdf).
+For inquiries, comments, or drafts of working papers, I can be reached at [mellissa.b.meisels@vanderbilt.edu](mailto::mellissa.b.meisels@vanderbilt.edu).
 
