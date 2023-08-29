@@ -4,6 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
+["Campaign Agendas and Issue Group Strategy in Congressional Primaries"](/files/Meisels_CampaignIssueGroups.pdf) *Job Market Paper*
+
+> *Which candidates do issue PACs support in House primaries? Competing theories suggest a focus on either friendly incumbents or new potential allies, yet evaluating divergent predictions requires data on candidates’ agendas. I leverage original issue platform text from campaign websites, FEC receipts, and bill summaries to measure campaign attention, PAC funding, and legislative activity across nine major issue areas from 2016 to 2022. Within–candidate analyses show that candidates enjoy greater support from groups centered around their campaign priorities, with larger absolute effects for incumbents and larger relative effects for non–incumbents. Further investigation via first–differences reveals an incumbency boost in issue group funding disproportionately concentrated among those who campaigned on the issue. Differences are not driven by legislative activity: issue PACs are more responsive to campaign attention than to bill introductions. Results suggest that groups rely on campaign rhetoric to identify and cultivate long–termrelationships with potential champions of their cause over rewarding incumbents for past lawmaking activities.*
 
 ["Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics"](/files/GTTE_12.6.22.pdf) *With Joshua Clinton and Gregory Huber.* Invited to revise and resubmit at *British Journal of Political Science.*
 
@@ -16,8 +19,6 @@ author_profile: true
 ["Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising"](/files/EIM_MM.pdf)
 
 > *Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions at the donor level and in subnational contexts, yet scholars have struggled to identify the impact of House candidates' ideology on their fundraising due to the difficulty of disentangling confounded and endogenous factors. To isolate the effect of candidate positioning on fundraising success, I leverage the quasi-random variation provided by just barely nominating an extreme House candidate over a moderate. Using a regression discontinuity design on close primaries between 1990 and 2018, I find no increase in individual contributions nor decrease in corporate PAC contributions among extreme candidates across numerous model specifications, bandwidth selections, and sample compositions. These null results call into question the extent to which candidates' financial support from individual and business PAC donors is simply due to their ideology.*
-
-“Campaign Agendas and Issue Group Strategy in Congressional Primaries."
 
 "Competition and Free-Riding in Electoral Campaigns with Outside Spending." *With Brenton Kenkel.*
 
