@@ -3,14 +3,17 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+# Publications
+
+["Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics"](/files/GTTE_12.6.22.pdf) *With Joshua Clinton and Gregory Huber.* Accepted at *British Journal of Political Science.*
+
+> *How does candidate ideology affect donors’ contribution decisions in U.S. House elections? Studies of donormotivations have struggled with the confounding of candidate, donor, and district characteristics in observational data and the difficulty of assessing trade-offs in surveys. We investigate how these factors affect contribution decisions using experimental vignettes administered to 7,000 verified midterm donors. While ideological congruence influences donors’ likelihood of contributing to a candidate, district competitiveness and opponent extremity are equally important. Moreover, the response to ideology is asymmetric and heterogeneous: donors penalize more moderate candidates five times more heavily than more extreme candidates, with the most extreme donors exhibiting the greatest preference for candidates even more extreme than themselves. Republicans also exhibit a greater relative preference for extremism than Democrats, although partisan differences are smaller than differences by donor extremism. Our findings suggest that strategic considerations matter and donors incentivize candidate extremism even more than previously thought.*
+
+# Working Papers
 
 ["Campaign Agendas and Issue Group Strategy in Congressional Primaries"](/files/Meisels_CampaignIssueGroups.pdf) *Job Market Paper*
 
 > *Which candidates do issue PACs support in House primaries? Competing theories suggest a focus on either friendly incumbents or new potential allies, yet evaluating divergent predictions requires data on candidates’ agendas. I leverage original issue platform text from campaign websites, FEC receipts, and bill summaries to measure campaign attention, PAC funding, and legislative activity across nine major issue areas from 2016 to 2022. Within–candidate analyses show that candidates enjoy greater support from groups centered around their campaign priorities, with larger absolute effects for incumbents and larger relative effects for non–incumbents. Further investigation via first–differences reveals an incumbency boost in issue group funding disproportionately concentrated among those who campaigned on the issue. Differences are not driven by legislative activity: issue PACs are more responsive to campaign attention than to bill introductions. Results suggest that groups rely on campaign rhetoric to identify and cultivate long–term relationships with potential champions of their cause over rewarding incumbents for past lawmaking activities.*
-
-["Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics"](/files/GTTE_12.6.22.pdf) *With Joshua Clinton and Gregory Huber.* Invited to revise and resubmit at *British Journal of Political Science.*
-
-> *How does candidate ideology affect donors’ contribution decisions in U.S. House elections? Studies of donormotivations have struggled with the confounding of candidate, donor, and district characteristics in observational data and the difficulty of assessing trade-offs in surveys. We investigate how these factors affect contribution decisions using experimental vignettes administered to 7,000 verified midterm donors. While ideological congruence influences donors’ likelihood of contributing to a candidate, district competitiveness and opponent extremity are equally important. Moreover, the response to ideology is asymmetric and heterogeneous: donors penalize more moderate candidates five times more heavily than more extreme candidates, with the most extreme donors exhibiting the greatest preference for candidates even more extreme than themselves. Republicans also exhibit a greater relative preference for extremism than Democrats, although partisan differences are smaller than differences by donor extremism. Our findings suggest that strategic considerations matter and donors incentivize candidate extremism even more than previously thought.*
 
 ["Positioning in Congressional Primary Campaigns"](/files/MM_PCPC.pdf)
 
