@@ -15,6 +15,3 @@ My research and teaching interests center around American politics with emphases
 My dissertation project leverages original data on House campaign platforms to investigate how candidates choose to publicly present their positions and issue priorities during the increasingly important primary election, and the interplay between this rhetoric, support from moneyed interests, and subsequent legislative behavior.
 
 Broadly, my work combines large data, natural language processing, causal inference tools, experiments, and structural estimation of formal models to further our understanding of strategic interactions among political elites.
-
-For inquiries, comments, or drafts of working papers, I can be reached at [mellissa.b.meisels@vanderbilt.edu](mailto::mellissa.b.meisels@vanderbilt.edu).
-
