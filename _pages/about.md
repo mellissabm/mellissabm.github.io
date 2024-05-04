@@ -25,11 +25,9 @@ Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the
 *How does candidate ideology affect donors' contribution decisions in U.S. House elections? Studies of donor motivations have struggled with confounding of candidate, donor, and district characteristics in observational data and the difficulty of assessing trade-offs in surveys. We investigate how these factors affect contribution decisions using experimental vignettes administered to 7,000 verified midterm donors. While ideological congruence influences donors' likelihood of contributing to a candidate, district competitiveness and opponent extremity are equally important. Moreover, the response to ideology is asymmetric and heterogeneous: donors penalize more moderate candidates five times more heavily than more extreme candidates, with the most extreme donors exhibiting the greatest preference for candidates even more extreme than themselves. Republicans also exhibit a greater relative preference for extremism than Democrats, although partisan differences are smaller than differences by donor extremism. Our findings suggest that strategic considerations matter, and donors incentivize candidate extremism even more than previously thought.*
   
 </details>
-
 </br>
 </br>
 </br>
-
 # Working Papers
 
 "Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising." *Invited to revise and resubmit at Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
@@ -37,11 +35,9 @@ Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the
   <summary><b>Abstract</b></summary>
 *Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates’ positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. Employing a close primaries regression discontinuity design using “as-if random” nominations of extreme versus moderate House candidates from 1980 to 2020, I find that extreme and moderate nominees raise similar amounts of general election contributions from both individual donors and corporate PACs. At the contributor level, corporate PACs are more likely to fund moderates than extremists, and results regarding individuals’ decisions are inconsistent. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors’ role in congressional polarization.*
 </details>
-
 </br>
 </br>
 </br>
-
 "Campaign Agendas and Issue Group Strategy in Congressional Primaries" [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf)
 <details>
   <summary><b>Abstract</b></summary>
@@ -57,11 +53,9 @@ Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the
   <summary><b>Abstract</b></summary>
 *The concept of campaign positioning is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016---2022 congressional primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly important primary election stage. Primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal--conservative dimension. The utility of the measure is demonstrated with an application to an ongoing debate about whether nationalization mitigates candidates' district ties, wherein I find that primary candidates' rhetoric varies systematically with district partisanship. Estimating primary candidates' positions independently of campaign receipts and roll--call voting facilitates future investigation into the substantive relationships between public campaign rhetoric, financial contributions, and subsequent legislative behavior.*
 </details>
-
 </br>
 </br>
 </br>
-
 "Competition and Free-Riding in Electoral Campaigns with Outside Spending" *(With Brenton Kenkel)*
 
 
