@@ -3,7 +3,4 @@ main:
     url: /files/Meisels_CV.pdf
 
   - title: "Research"
-    url: /research/
-
-  - title: "Working With Students"
-    url: /students/
+    url: /about/#research

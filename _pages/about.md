@@ -16,7 +16,7 @@ My dissertation project leverages original data on House campaign platforms to i
 
 Broadly, my work combines large data, natural language processing, causal inference tools, experiments, and structural estimation of formal models to further our understanding of strategic interactions among political elites.
 
-# Publications
+# Publications<a name="research"></a>
 
 Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics." *British Journal of Political Science.* FirstView. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
 <details>
