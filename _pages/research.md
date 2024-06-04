@@ -29,7 +29,9 @@ author_profile: true
 </details>
 
 &nbsp;  
-  
+
+---
+
 **Campaign Agendas and Issue Group Strategy in Congressional Primaries** [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf)
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
@@ -42,7 +44,9 @@ author_profile: true
 </details>
    
 &nbsp;  
-   
+
+---
+
 **Positioning in Congressional Primary Campaigns** [\[Paper\]](/files/MM_PCPC.pdf)
 
 * Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
@@ -57,6 +61,7 @@ author_profile: true
 
 &nbsp;  
 
+---
 **Competition and Free-Riding in Electoral Campaigns with Outside Spending** (with [Brenton Kenkel](https://bkenkel.com/))
 
 * Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
