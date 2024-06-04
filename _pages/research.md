@@ -17,7 +17,7 @@ author_profile: true
 
 # Working Papers
   
-**"Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising."** Revise and resubmit, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
+**Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising.** Revise and resubmit, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
 
 * Presentations: MPSA 2021, PolMeth 2022
 
@@ -28,18 +28,33 @@ author_profile: true
 
 &nbsp;  
   
-"Campaign Agendas and Issue Group Strategy in Congressional Primaries" [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf)
+**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf)
 
->*Which candidates do issue PACs support in House primaries? Competing theories suggest a focus on either friendly incumbents or new potential allies, yet evaluating divergent predictions requires data on candidates’ agendas. I leverage original issue platform text from campaign websites, FEC receipts, and bill summaries to measure campaign attention, PAC funding, and legislative activity across nine major issue areas from 2016 to 2022. I use various within–candidate research designs to show that candidates who prioritize an issue raise more money from PACs related to the issue, and these “issue champions” enjoy double the incumbency advantage in issue PAC fundraising compared to others — a difference not attributable to differences in subsequent legislative activity. These results illuminate the beginning of legislator–group relationships by providing new evidence that issue groups rely on campaign rhetoric in primaries to identify and foster connections with potential champions of their cause.*
+* Winner of 2023 Political Organizations and Parties Best APSA Paper Award
+
+* Presentations: APSA MIP Pre-Conference 2023, APSA 2023, Junior Americanist Workshop Series 2023, MPSA 2024, UChicago Harris Center for Effective Government American Politics Conference 2024
+
+<details open>
+  <summary><b>Abstract</b></summary>
+<i>Which candidates do issue PACs support in House primaries? Competing theories suggest a focus on either friendly incumbents or new potential allies, yet evaluating divergent predictions requires data on candidates’ agendas. I leverage original issue platform text from campaign websites, FEC receipts, and bill summaries to measure campaign attention, PAC funding, and legislative activity across nine major issue areas from 2016 to 2022. I use various within–candidate research designs to show that candidates who prioritize an issue raise more money from PACs related to the issue, and these “issue champions” enjoy double the incumbency advantage in issue PAC fundraising compared to others — a difference not attributable to differences in subsequent legislative activity. These results illuminate the beginning of legislator–group relationships by providing new evidence that issue groups rely on campaign rhetoric in primaries to identify and foster connections with potential champions of their cause.</i>
+</details>
    
 &nbsp;  
    
-"Positioning in Congressional Primary Campaigns" [\[Paper\]](/files/MM_PCPC.pdf)
->*The concept of campaign positioning is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016---2022 congressional primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly important primary election stage. Primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal--conservative dimension. The utility of the measure is demonstrated with an application to an ongoing debate about whether nationalization mitigates candidates' district ties, wherein I find that primary candidates' rhetoric varies systematically with district partisanship. Estimating primary candidates' positions independently of campaign receipts and roll--call voting facilitates future investigation into the substantive relationships between public campaign rhetoric, financial contributions, and subsequent legislative behavior.*
+**Positioning in Congressional Primary Campaigns** [\[Paper\]](/files/MM_PCPC.pdf)
+
+* Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
+
+* Presentations: MPSA 2023, PolMeth 2023
+
+<details open>
+  <summary><b>Abstract</b></summary>
+<i>The concept of campaign positioning is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016---2022 congressional primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly important primary election stage. Primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal--conservative dimension. The utility of the measure is demonstrated with an application to an ongoing debate about whether nationalization mitigates candidates' district ties, wherein I find that primary candidates' rhetoric varies systematically with district partisanship. Estimating primary candidates' positions independently of campaign receipts and roll--call voting facilitates future investigation into the substantive relationships between public campaign rhetoric, financial contributions, and subsequent legislative behavior.</i>
+</details>
 
 
 &nbsp;  
 
-"Competition and Free-Riding in Electoral Campaigns with Outside Spending" *(With Brenton Kenkel)*
+**Competition and Free-Riding in Electoral Campaigns with Outside Spending** (with [Brenton Kenkel](https://bkenkel.com/)
 
-
+* Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
