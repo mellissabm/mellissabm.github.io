@@ -15,6 +15,8 @@ author_profile: true
 
 &nbsp;  
 
+---
+
 # Working Papers
   
 **Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising.** Revise and resubmit, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
