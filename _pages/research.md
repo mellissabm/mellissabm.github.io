@@ -6,7 +6,7 @@ author_profile: true
 
 # Publications
 
-Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics." *British Journal of Political Science.* FirstView. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
+Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. **"Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics."** *British Journal of Political Science.* FirstView. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
 
 <details open>
   <summary><b>Abstract</b></summary>
@@ -17,9 +17,14 @@ Meisels, Mellissa, Joshua D. Clinton, and Gregory A. Huber. 2024. "Giving to the
 
 # Working Papers
   
-"Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising." *Invited to revise and resubmit at Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
+**"Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising."** Revise and resubmit, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
 
->*Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates’ positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. Employing a close primaries regression discontinuity design using “as-if random” nominations of extreme versus moderate House candidates from 1980 to 2020, I find that extreme and moderate nominees raise similar amounts of general election contributions from both individual donors and corporate PACs. At the contributor level, corporate PACs are more likely to fund moderates than extremists, and results regarding individuals’ decisions are inconsistent. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors’ role in congressional polarization.*
+* Presentations: MPSA 2021, PolMeth 2022
+
+<details open>
+  <summary><b>Abstract</b></summary>
+<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates’ positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. Employing a close primaries regression discontinuity design using “as-if random” nominations of extreme versus moderate House candidates from 1980 to 2020, I find that extreme and moderate nominees raise similar amounts of general election contributions from both individual donors and corporate PACs. At the contributor level, corporate PACs are more likely to fund moderates than extremists, and results regarding individuals’ decisions are inconsistent. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors’ role in congressional polarization.</i>
+</details>
 
 &nbsp;  
   
