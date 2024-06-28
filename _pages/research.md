@@ -6,7 +6,7 @@ author_profile: true
 
 # Publications
 
-**Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics** (with [Joshua D. Clinton](https://www.joshclinton.com/) and [Gregory A. Huber](https://huber.research.yale.edu/)). *British Journal of Political Science* 54(3): 851--873, 2024. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
+Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
 
 <details>
   <summary><b>Abstract</b></summary>
