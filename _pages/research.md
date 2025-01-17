@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 # Publications
-Mellissa Meisels. **Everything in Moderation? The Effect of Candidate Extremism on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
+Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how ``as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
+<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
 </details>
 
 &nbsp;  
@@ -29,7 +29,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 # Working Papers
 
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf)
+**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf) *(under review)*
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
 
@@ -44,7 +44,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 ---
 
-**Positioning in Congressional Primary Campaigns** [\[Paper\]](/files/MM_PCPC.pdf)
+**Candidate Positions, Responsiveness, and Returns to Extremism** [\[Paper\]](/files/MM_PCPC.pdf) *(under review)*
 
 * Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
 
@@ -52,7 +52,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 <details>
   <summary><b>Abstract</b></summary>
-<i>The concept of campaign positioning is integral to theoretical investigation of elections, representation, and political behavior, yet empirical studies rely upon proxy measures that may not reflect candidates’ public campaign positions. Leveraging original data on issue platforms from the campaign websites of 2016---2022 congressional primary candidates, I introduce a new measure based directly on candidates’ own campaign positions during the increasingly important primary election stage. Primary campaign positions are temporally dynamic, straightforward to validate, and clearly recover a recognizable liberal--conservative dimension. The utility of the measure is demonstrated with an application to an ongoing debate about whether nationalization mitigates candidates' district ties, wherein I find that primary candidates' rhetoric varies systematically with district partisanship. Estimating primary candidates' positions independently of campaign receipts and roll--call voting facilitates future investigation into the substantive relationships between public campaign rhetoric, financial contributions, and subsequent legislative behavior.</i>
+<i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
 </details>
 
 
