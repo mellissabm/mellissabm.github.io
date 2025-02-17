@@ -5,21 +5,15 @@ author_profile: true
 ---
 
 # Publications
-Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* 
-
-<details>
-  <summary><b>Abstract</b></summary>
+Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.*[Paper](/files/EIM_MM.pdf){: .btn--research} <details><summary><b>Abstract</b></summary>
 <i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
 </details>
 
-&nbsp;  [Paper](/files/EIM_MM.pdf){: .btn--research}
+&nbsp;
 
 ---
 
-Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [\[Paper\]](https://doi.org/10.1017/S0007123423000650) [\[Writeup in LSE United States Politics & Policy Blog\]](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/) [\[Replication\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ) 
-
-<details>
-  <summary><b>Abstract</b></summary>
+Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [Paper](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}<details><summary><b>Abstract</b></summary>
 <i>How does candidate ideology affect donors' contribution decisions in U.S. House elections? Studies of donor motivations have struggled with confounding of candidate, donor, and district characteristics in observational data and the difficulty of assessing trade-offs in surveys. We investigate how these factors affect contribution decisions using experimental vignettes administered to 7,000 verified midterm donors. While ideological congruence influences donors' likelihood of contributing to a candidate, district competitiveness and opponent extremity are equally important. Moreover, the response to ideology is asymmetric and heterogeneous: donors penalize more moderate candidates five times more heavily than more extreme candidates, with the most extreme donors exhibiting the greatest preference for candidates even more extreme than themselves. Republicans also exhibit a greater relative preference for extremism than Democrats, although partisan differences are smaller than differences by donor extremism. Our findings suggest that strategic considerations matter, and donors incentivize candidate extremism even more than previously thought.</i>
 </details>
 
@@ -29,7 +23,8 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 # Working Papers
 
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [\[Paper\]](/files/Meisels_CampaignIssueGroups.pdf) *(under review)*
+**Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf)[Paper]{: .btn--research}
+
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
 
@@ -44,7 +39,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 ---
 
-**Candidate Positions, Responsiveness, and Returns to Extremism** [\[Paper\]](/files/MM_PCPC.pdf) *(under review)*
+**Candidate Positions, Responsiveness, and Returns to Extremism** *(under review)* [\[Paper\]](/files/MM_PCPC.pdf){: .btn--research}
 
 * Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
 
