@@ -83,16 +83,16 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: #000000;
+      border: 1px solid #000000;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: $info-color;
       }
 
       &.current {
-        color: #fff;
+        color: $info-color;
         background: $primary-color;
       }
 
