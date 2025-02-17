@@ -2,5 +2,8 @@ main:
   - title: "CV"
     url: /files/Meisels_CV.pdf
 
-  - title: "Research"
+  - title: "Peer-Reviewed Publications"
     url: /#publications
+
+  - title: "Working Papers"
+    url: /#papers

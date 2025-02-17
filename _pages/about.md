@@ -12,6 +12,9 @@ Welcome! I am a postdoctoral associate in the [Center for the Study of American 
 
 My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the interplay between candidates' self-presentations and financial contributors’ strategies in congressional campaigns, with an emphasis on primary elections. Broadly, I combine original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models to further our understanding of strategic interactions among political elites.
 
+&nbsp;
+
+---
        
 # Publications
 
@@ -38,7 +41,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 ---
 
        
-# Working Papers
+# Papers
 
 **Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
@@ -76,8 +79,6 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 * Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
 
 
-# Contact
-
-For inquiries, feel free to contact me at **mellissa.meisels@yale.edu**.
+&nbsp;  
 
 
