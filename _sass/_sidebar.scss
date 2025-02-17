@@ -26,7 +26,7 @@
 
 
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 15px;
   }
 
   h2, h3, h4, h5, h6 {
@@ -48,6 +48,7 @@
     width: 100%;
   }
 }
+
 
 /*
    Author profile and links
