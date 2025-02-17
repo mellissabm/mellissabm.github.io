@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Publications
-Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.*[Paper](/files/EIM_MM.pdf){: .btn--research} <details><summary><b>Abstract</b></summary>
+Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [Paper](/files/EIM_MM.pdf){: .btn--research} <details><summary><b>Abstract</b></summary>
 <i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
 </details>
 
@@ -23,7 +23,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 # Working Papers
 
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf)[Paper]{: .btn--research}
+**Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
@@ -39,7 +39,7 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 
 ---
 
-**Candidate Positions, Responsiveness, and Returns to Extremism** *(under review)* [\[Paper\]](/files/MM_PCPC.pdf){: .btn--research}
+**Candidate Positions, Responsiveness, and Returns to Extremism** *(under review)* [Paper](/files/MM_PCPC.pdf){: .btn--research}
 
 * Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
 
