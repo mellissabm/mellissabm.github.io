@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Publications
-Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [\[Paper\]](/files/EIM_MM.pdf)
+Mellissa Meisels. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [Paper](/files/EIM_MM.pdf){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
