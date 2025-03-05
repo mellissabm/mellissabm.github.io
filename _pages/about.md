@@ -47,6 +47,22 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
        
 # Papers
 
+
+**Candidate Positions, Responsiveness, and Returns to Extremism** *(Revise and resubmit, Journal of Politics)* [Paper](/files/MM_PCPC.pdf){: .btn--research}
+
+* Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
+
+* Presentations: MPSA 2023, PolMeth 2023
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
+</details>
+
+
+&nbsp;  
+
+---
 **Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
 
@@ -59,22 +75,6 @@ Mellissa Meisels, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregor
 <i>Which candidates do issue PACs support in House primaries? Competing theories suggest a focus on either friendly incumbents or new potential allies, yet evaluating divergent predictions requires data on candidates’ agendas. I leverage original issue platform text from campaign websites, FEC receipts, and bill summaries to measure campaign attention, PAC funding, and legislative activity across nine major issue areas from 2016 to 2022. I use various within–candidate research designs to show that candidates who prioritize an issue raise more money from PACs related to the issue, and these “issue champions” enjoy double the incumbency advantage in issue PAC fundraising compared to others — a difference not attributable to differences in subsequent legislative activity. These results illuminate the beginning of legislator–group relationships by providing new evidence that issue groups rely on campaign rhetoric in primaries to identify and foster connections with potential champions of their cause.</i>
 </details>
    
-&nbsp;  
-
----
-
-**Candidate Positions, Responsiveness, and Returns to Extremism** *(under review)* [Paper](/files/MM_PCPC.pdf){: .btn--research}
-
-* Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
-
-* Presentations: MPSA 2023, PolMeth 2023
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
-</details>
-
-
 &nbsp;  
 
 ---
