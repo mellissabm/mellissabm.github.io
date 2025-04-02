@@ -22,7 +22,7 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
-Meisels, Mellissa. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** Conditionally Accepted, *Political Science Research and Methods.* [Paper](/files/EIM_MM.pdf){: .btn--research} 
+Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** *Political Science Research and Methods* FirstView. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research} 
 
 <details>
   <summary><b>Abstract</b></summary>
