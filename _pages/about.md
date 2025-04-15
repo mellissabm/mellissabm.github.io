@@ -14,7 +14,7 @@ redirect_from:
 
 Welcome! I am a postdoctoral associate in the [Center for the Study of American Politics](https://csap.yale.edu/) at Yale University. In July, I will join Yale's [Department of Political Science](https://politicalscience.yale.edu/) as an Assistant Professor. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/). Previously, I was a [Democracy Center Visiting Scholar at the University of Rochester](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html). I earned my B.A. in Political Science at [UCLA](https://polisci.ucla.edu/). 
 
-My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the interplay between candidates' self-presentations and financial contributors’ strategies in congressional campaigns, with an emphasis on primary elections. Broadly, I combine original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models to further our understanding of strategic interactions among political elites.
+My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices selected by candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. In doing so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models.
 
 &nbsp;
 
@@ -22,7 +22,19 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
-Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** *Political Science Research and Methods* FirstView. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research} 
+Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** Conditionally accepted, *Proceedings of the National Academy of Sciences.*[Paper](/files/Dobbs.pdf){: .btn--research}
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>In 2022, the US Supreme Court overturned the constitutional protection of abortion rights established in Roe v. Wade. In doing so, Dobbs v. Jackson Women's Health Organization moved status quo on abortion policy more into line with the Republican Party's stance. Subsequent research has documented the decision's impact on mass political behavior and opinion, yet less is known about its impact on the behavior of political elites. I provide new evidence on congressional candidates' strategic responses to the decision with original data on campaign platforms (N = 4,703) from election cycles before and after Dobbs. After the decision, Democrats became significantly more likely to campaign on abortion and to do so using unambiguous language, while Republicans increasingly obfuscated their positions on the issue. Pre-post-Dobbs change in partisan divergence in campaign attention to abortion was driven most strongly by candidates in states with abortion bans set to take effect upon overturning of Roe (i.e. trigger laws and/or pre-Roe laws). Importantly, these shifting patterns of campaign attention were not present in other issue domains, consistent with changes in attention to abortion being driven by Dobbs rather than other contemporaneous factors.</i>
+</details>
+
+
+&nbsp;  
+
+---
+
+Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research} 
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -47,17 +59,6 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
        
 # Papers
 
-**Strategic campaign attention to abortion before and after** ***Dobbs*** *(Revise and resubmit, Proceedings of the National Academy of Sciences)* [Paper](/files/Dobbs.pdf){: .btn--research}
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>In 2022, the US Supreme Court overturned the constitutional protection of abortion rights established in Roe v. Wade. In doing so, Dobbs v. Jackson Women's Health Organization moved status quo on abortion policy more into line with the Republican Party's stance. Subsequent research has documented the decision's impact on mass political behavior and opinion, yet less is known about its impact on the behavior of political elites. I provide new evidence on congressional candidates' strategic responses to the decision with original data on campaign platforms (N = 4,703) from election cycles before and after Dobbs. After the decision, Democrats became significantly more likely to campaign on abortion and to do so using unambiguous language, while Republicans increasingly obfuscated their positions on the issue. Pre-post-Dobbs change in partisan divergence in campaign attention to abortion was driven most strongly by candidates in states with abortion bans set to take effect upon overturning of Roe (i.e. trigger laws and/or pre-Roe laws). Importantly, these shifting patterns of campaign attention were not present in other issue domains, consistent with changes in attention to abortion being driven by Dobbs rather than other contemporaneous factors.</i>
-</details>
-
-
-&nbsp;  
-
----
 **Candidate Positions, Responsiveness, and Returns to Extremism** *(Revise and resubmit, Journal of Politics)* [Paper](/files/MM_PCPC.pdf){: .btn--research}
 
 * Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
