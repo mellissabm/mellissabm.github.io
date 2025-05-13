@@ -27,7 +27,7 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
-Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122 (20) e2503080122. [Paper](https://doi.org/10.1073/pnas.2503080122){: .btn--research}
+Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122. [Paper](https://doi.org/10.1073/pnas.2503080122){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
