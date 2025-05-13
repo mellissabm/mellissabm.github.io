@@ -27,7 +27,7 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
-Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122. [Paper](https://doi.org/10.1073/pnas.2503080122){: .btn--research}[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
+Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122. [Paper](https://doi.org/10.1073/pnas.2503080122){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -39,7 +39,7 @@ Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and A
 
 ---
 
-Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research}[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
+Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
