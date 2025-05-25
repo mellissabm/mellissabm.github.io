@@ -27,7 +27,8 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
-Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122. [Paper](https://doi.org/10.1073/pnas.2503080122){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
+Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122.
+[PDF](/files/dobbs-pnas.pdf){: .btn--research}[Publisher](https://doi.org/10.1073/pnas.2503080122){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -39,7 +40,7 @@ Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and A
 
 ---
 
-Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [Paper](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
+Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [PDF](/files/extremism-psrm.pdf){: .btn--research}[Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -50,7 +51,7 @@ Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nom
 
 ---
 
-Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [Paper](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}
+Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [PDF](extreme-bjps.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -79,7 +80,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 &nbsp;  
 
 ---
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** *(under review)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
+**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
