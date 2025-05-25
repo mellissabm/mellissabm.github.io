@@ -52,7 +52,7 @@ Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nom
 
 ---
 
-Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [PDF](extreme-bjps.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}
+Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [PDF](/files/extreme-bjps.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
