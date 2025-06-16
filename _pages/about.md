@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
   - /research/
-  - /students
+  - /students/
   - /markdown_generator/
   - /portfolio/
   - /teaching/
