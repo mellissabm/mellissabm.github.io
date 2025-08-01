@@ -21,9 +21,11 @@ redirect_from:
   - /cv/
 ---
 
-Welcome! I am an Assistant Professor in the [Department of Political Science](https://politicalscience.yale.edu/) at Yale University. Previously, I was a postdoc in the [Center for the Study of American Politics](https://csap.yale.edu/) at Yale and a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/). I graduated *magna cum laude* with a B.A. in [Political Science at UCLA](https://polisci.ucla.edu/). I am originally from Portland, Oregon.
+Welcome! I am an Assistant Professor in the [Department of Political Science](https://politicalscience.yale.edu/) at Yale University, where I am also affiliated with the [Institution for Social and Policy Studies](https://isps.yale.edu/) and [Center for the Study of American Politics](https://csap.yale.edu/).
 
 My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices of candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. To do so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models.
+
+Previously, I was a postdoc in the [Center for the Study of American Politics](https://csap.yale.edu/) at Yale and a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/). I graduated *magna cum laude* with a B.A. in [Political Science at UCLA](https://polisci.ucla.edu/). I am originally from Portland, Oregon.
 
 &nbsp;
 
@@ -31,6 +33,17 @@ My research centers on the U.S. Congress, money in politics, electoral campaigns
        
 # Publications
 
+Meisels, Mellissa. 2025. ***Candidate Positions, Responsiveness, and Returns to Extremism.*** Conditionally accepted, **Journal of Politics.** [Paper](/files/MM_PCPC.pdf){: .btn--research}
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
+</details>
+
+
+&nbsp;  
+
+---
 Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122.
 [PDF](/files/dobbs-pnas.pdf){: .btn--research} [Publisher](https://doi.org/10.1073/pnas.2503080122){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
 
@@ -69,21 +82,6 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
        
 # Papers
 
-**Candidate Positions, Responsiveness, and Returns to Extremism** *(Revise and resubmit, Journal of Politics)* [Paper](/files/MM_PCPC.pdf){: .btn--research}
-
-* Winner of 2023 Vanderbilt Political Science Outstanding Graduate Paper Award
-
-* Presentations: MPSA 2023, PolMeth 2023
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
-</details>
-
-
-&nbsp;  
-
----
 **Campaign Agendas and Issue Group Strategy in Congressional Primaries** [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
 
