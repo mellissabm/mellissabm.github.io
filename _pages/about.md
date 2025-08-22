@@ -105,3 +105,20 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 &nbsp;  
 
 
+---
+**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/))
+
+* Presentations: PolMeth 2025
+
+
+&nbsp;  
+
+
+---
+**Asymmetrically Polarized Threat of Replacement**
+
+* Presentations: APSA 2025
+
+
+&nbsp;  
+
