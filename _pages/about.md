@@ -33,7 +33,7 @@ Previously, I was a postdoc in the [Center for the Study of American Politics](h
        
 # Publications
 
-Meisels, Mellissa. 2025. **Candidate Positions, Responsiveness, and Returns to Extremism.** Forthcoming, *Journal of Politics.* [Paper](/files/MM_PCPC.pdf){: .btn--research}
+Meisels, Mellissa. 2025. **Candidate Positions, Responsiveness, and Returns to Extremism.** Forthcoming, *Journal of Politics.* [Paper](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
