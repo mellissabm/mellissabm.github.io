@@ -21,11 +21,11 @@ redirect_from:
   - /cv/
 ---
 
-Welcome! I am an Assistant Professor in the [Department of Political Science](https://politicalscience.yale.edu/people/mellissa-meisels) at Yale University, where I am also affiliated with the [Institution for Social and Policy Studies (ISPS)](https://isps.yale.edu/team/mellissa-meisels) and [Center for the Study of American Politics (CSAP)](https://csap.yale.edu/people/mellissa-meisels).
+Welcome! I am an Assistant Professor in the [Department of Political Science](https://politicalscience.yale.edu/people/mellissa-meisels) at Yale University, where I am affiliated with [Institution for Social and Policy Studies (ISPS)](https://isps.yale.edu/team/mellissa-meisels) and [Center for the Study of American Politics (CSAP)](https://csap.yale.edu/people/mellissa-meisels).
 
 My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices of candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. To do so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models. My research is forthcoming and published in *Proceedings of the National Academy of Sciences, Journal of Politics, British Journal of Political Science*, and *Political Science Research and Methods.*
 
-Previously, I was a CSAP postdoctoral fellow and a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions (CSDI)](https://www.vanderbilt.edu/csdi/). I graduated *magna cum laude* with a B.A. in political science from [UCLA](https://polisci.ucla.edu/). I am originally from Portland, Oregon.
+Previously, I was a postdoctoral fellow at CSAP and a [Democracy Center Visiting Scholar](https://www.sas.rochester.edu/democracycenter/research/visiting-scholars.html) at the University of Rochester. I received my Ph.D. in Political Science at [Vanderbilt University](https://www.vanderbilt.edu/political-science/), where I was affiliated with the [Center for the Study of Democratic Institutions (CSDI)](https://www.vanderbilt.edu/csdi/). I graduated *magna cum laude* with a B.A. in political science from [UCLA](https://polisci.ucla.edu/). I am originally from Portland, Oregon.
 
 &nbsp;
 
