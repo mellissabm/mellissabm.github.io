@@ -129,7 +129,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 ---
 # Teaching
 
-**Yale PLSC 3256 (UG)/8050 (G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
+**Yale PLSC 3256/8050 (UG/G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
 
 <details>
   <summary><b>Course Description</b></summary>
