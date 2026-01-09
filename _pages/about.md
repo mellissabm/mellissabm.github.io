@@ -96,23 +96,27 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
    
 &nbsp;  
 
+
 ---
+**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/)) [Paper](/files/CoMDS-MHT.pdf){: .btn--research}[arXiv](https://arxiv.org/pdf/2601.05213){: .btn--research}
+
+* Presentations: PolMeth 2025
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>In the advent of big data and machine learning, researchers now have a wealth of congressional candidate ideal point estimates at their disposal for theory testing. Weak relationships raise questions about the extent to which they capture a shared quantity — rather than idiosyncratic, domain--specific factors — yet different measures are used interchangeably in most substantive analyses. Moreover, questions central to the study of American politics implicate relationships between candidate ideal points and other variables derived from the same data sources, introducing endogeneity. We propose a method, consensus multidimensional scaling (CoMDS), which better aligns with how applied scholars use ideal points in practice. CoMDS captures the shared, stable associations of a set of underlying ideal point estimates and can be interpreted as their common spatial representation. We illustrate the utility of our approach for assessing relationships within domains of existing measures and provide a suite of diagnostic tools to aid in practical usage.</i>
+</details>
+
+&nbsp;  
+
+---
+
 **Competition and Free-Riding in Electoral Campaigns with Outside Spending** (with [Brenton Kenkel](https://bkenkel.com/))
 
 * Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
 
 
 &nbsp;  
-
-
----
-**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/))
-
-* Presentations: PolMeth 2025
-
-
-&nbsp;  
-
 
 ---
 **Asymmetrically Polarized Threat of Replacement**
