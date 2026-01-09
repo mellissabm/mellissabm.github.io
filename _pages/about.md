@@ -98,7 +98,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 
 
 ---
-**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/)) [Paper](/files/CoMDS-MHT.pdf){: .btn--research}[arXiv](https://arxiv.org/abs/2601.05213){: .btn--research}
+**Constructing Consensus Ideal Points Using Multi-Source Data** (with [Melody Huang](https://melodyyhuang.com/) and [Tiffany M. Tang](https://tiffanymtang.github.io/)) [Paper](/files/CoMDS-MHT.pdf){: .btn--research} [arXiv](https://arxiv.org/abs/2601.05213){: .btn--research}
 
 * Presentations: PolMeth 2025
 
