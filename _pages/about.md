@@ -126,3 +126,24 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 
 &nbsp;  
 
+---
+# Teaching
+
+**Yale PLSC 3256 (UG)/8050 (G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
+
+<details>
+  <summary><b>Course Description</b></summary>
+<i>This seminar examines the behavior of political elites in US congressional elections. Although voters ultimately determine election outcomes, the dynamics of electoral campaigns are fundamentally shaped by the choices of candidates, political parties, activists, and financial contributors. Political elites' behavior is a function of not just their straightforward preferences, but the incentives that they face. Among other topics, this course will cover the congressional election "fundamentals" in primary versus general elections, the positions and priorities candidates articulate in their campaigns, how parties, donors, and interest groups choose which candidates to support, and the potential effects of commonly proposed campaign finance and electoral reforms. Throughout the semester, special emphasis is placed on the challenges involved in making inferences about strategic interactions among political elites. Students not only become familiar with how political scientists conduct research, but also learn to reflect critically on the merits and limitations of existing approaches.</i>
+</details>
+
+&nbsp;  
+
+---
+**Yale PLSC 2255 (UG): Special Interest Politics in the US** [Syllabus](/files/PLSC2255.pdf){: .btn--research}
+
+<details>
+  <summary><b>Course Description</b></summary>
+<i>This class examines how citizens and groups participate in US politics and policymaking via campaign contributions and lobbying. From elections all the way to bureaucratic policy implementation, special interests have many opportunities to attempt to pull policy closer to their preferences. Students become familiar with the regulatory environments structuring current laws regarding the revolving door and campaign finance (e.g. Citizens United), potential avenues of participation for special interests (e.g. political donations, independent expenditures, lobbying), the goals and preferences of different types of special interests (e.g. individual donors, ideological and issue groups, public interest and identity groups, corporations, local governments), groups' organizational structures (e.g. PACs, Super PACs, "dark money" groups), and current evidence on widely-discussed reforms meant to curb the political influence of special interests.</i>
+</details>
+
+&nbsp;  
