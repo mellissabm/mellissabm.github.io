@@ -33,7 +33,7 @@ Previously, I was a postdoctoral fellow at CSAP and a [Democracy Center Visiting
        
 # Publications
 
-Meisels, Mellissa. 2025. **Candidate Positions, Responsiveness, and Returns to Extremism.** Forthcoming, *Journal of Politics.* [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
+Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to Extremism.** *Journal of Politics* 88(2), 000-000. [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -42,6 +42,17 @@ Meisels, Mellissa. 2025. **Candidate Positions, Responsiveness, and Returns to E
 
 
 &nbsp;  
+
+
+---
+Meisels, Mellissa. 2026. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [PDF](/files/extremism-psrm.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
+</details>
+
+&nbsp;
 
 ---
 Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122.
@@ -57,16 +68,6 @@ Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and A
 
 ---
 
-Meisels, Mellissa. 2025. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [PDF](/files/extremism-psrm.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
-</details>
-
-&nbsp;
-
----
 
 Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Gregory A. Huber](https://huber.research.yale.edu/). 2024. **Giving to the Extreme? Experimental Evidence on Donor Response to Candidate and District Characteristics.** *British Journal of Political Science* 54(3): 851--873. [PDF](/files/extreme-bjps.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/S0007123423000650){: .btn--research} [LSE USPP Writeup](https://blogs.lse.ac.uk/usappblog/2024/02/08/political-donors-prefer-extreme-candidates-but-the-competitiveness-of-the-election-and-their-opponents-views-matter-too/){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q1X3RZ){: .btn--research}
 
@@ -82,12 +83,12 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
        
 # Papers
 
-**Campaign Agendas and Issue Group Strategy in Congressional Primaries** [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
+**Campaign Agendas and Issue Group Strategy in Intraparty Elections** *(Revise and resubmit, Quarterly Journal of Political Science)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 
 
 * Winner of 2023 Political Organizations and Parties Best APSA Paper Award
 
-* Presentations: APSA MIP Pre-Conference 2023, APSA 2023, Junior Americanist Workshop Series 2023, MPSA 2024, UChicago Harris Center for Effective Government American Politics Conference 2024
+* Presentations: APSA MIP Pre-Conference 2023, APSA 2023, Junior Americanist Workshop Series 2023, MPSA 2024, UChicago Harris American Politics Conference 2024
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -129,7 +130,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 ---
 # Teaching
 
-**Yale PLSC 3256/8050 (UG/G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
+**Yale PLSC 3256/8050 (U/G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
 
 <details>
   <summary><b>Course Description</b></summary>
@@ -139,7 +140,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 &nbsp;  
 
 ---
-**Yale PLSC 2255 (UG): Special Interest Politics in the US** [Syllabus](/files/PLSC2255.pdf){: .btn--research}
+**Yale PLSC 2255 (U): Special Interest Politics in the US** [Syllabus](/files/PLSC2255.pdf){: .btn--research}
 
 <details>
   <summary><b>Course Description</b></summary>
