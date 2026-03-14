@@ -33,7 +33,17 @@ Previously, I was a postdoctoral fellow at CSAP and a [Democracy Center Visiting
        
 # Publications
 
-Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to Extremism.** *Journal of Politics* 88(2), 000-000. [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
+Meisels, Mellissa. 2026. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [PDF](/files/extremism-psrm.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
+
+<details>
+  <summary><b>Abstract</b></summary>
+<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
+</details>
+
+---
+&nbsp;
+
+Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to Extremism.** *Journal of Politics* 88(2): 681-697. [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
 
 <details>
   <summary><b>Abstract</b></summary>
@@ -43,16 +53,6 @@ Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to E
 
 &nbsp;  
 
-
----
-Meisels, Mellissa. 2026. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** FirstView, *Political Science Research and Methods*. [PDF](/files/extremism-psrm.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
-
-<details>
-  <summary><b>Abstract</b></summary>
-<i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
-</details>
-
-&nbsp;
 
 ---
 Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122.
@@ -122,12 +122,21 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 ---
 **Asymmetrically Polarized Threat of Replacement**
 
-* Presentations: APSA 2025
+* Presentations: MPSA 2026, APSA 2025
 
 
 &nbsp;  
 
 ---
+**Intraparty Candidate Divergence and Primary Participation**
+
+* Presentations: CBS-Princeton Money in Politics Conference 2026, APSA 2026
+
+
+&nbsp;  
+
+---
+
 # Teaching
 
 **Yale PLSC 3256/8050 (U/G): Elite Behavior in Congressional Elections** [Syllabus](/files/PLSC3256.pdf){: .btn--research}
