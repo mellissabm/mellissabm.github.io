@@ -32,7 +32,7 @@ Previously, I was a postdoctoral fellow at CSAP and a [Democracy Center Visiting
 ---
        
 # Publications
----
+
 Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to Extremism.** *Journal of Politics* 88(2): 681-697. [PDF](/files/MM_PCPC.pdf){: .btn--research} [Publisher](https://www.journals.uchicago.edu/doi/10.1086/738505){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RDXYIR){: .btn--research}
 
 <details>
@@ -40,8 +40,12 @@ Meisels, Mellissa. 2026. **Candidate Positions, Responsiveness, and Returns to E
 <i>The concept of candidate positioning is central to the study of U.S. elections, representation, and political behavior. Existing work, however, overwhelmingly relies on indirect measures which may not reflect candidates’ stated positions. I analyze foundational relationships between candidate positions and district partisanship, primary electoral success, and primary fundraising performance with existing approaches versus text scaling estimates based on an original collection of campaign platforms from House primary candidates' websites in 2016, 2018, 2020, 2022, and 2024. Directly measuring candidates' positions using campaign platforms leads to conclusions vastly different than those reached with existing measures. While platform-based measures suggest candidates are responsive to their districts, existing measures do not. Within district, however, existing measures show financial and electoral penalties to extremism in primaries, but platform-based measures show no such penalty. These findings have wide-ranging implications for a number of ongoing scholarly debates which involve congressional candidates' positions.</i>
 </details>
 
+
 &nbsp;  
+
 ---
+
+
 Meisels, Mellissa. 2026. **Everything in Moderation? The Effect of Extremist Nominations on Individual and Corporate PAC Fundraising.** *Political Science Research and Methods* 14(2): 353-369. [PDF](/files/extremism-psrm.pdf){: .btn--research} [Publisher](https://doi.org/10.1017/psrm.2025.23){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAFWTY){: .btn--research}
 
 <details>
@@ -49,8 +53,11 @@ Meisels, Mellissa. 2026. **Everything in Moderation? The Effect of Extremist Nom
 <i>Do ideologically extreme candidates enjoy fundraising advantages over more moderate candidates? Extant work documents a relationship between candidates' positions and campaign contributions subnationally and in donor surveys, yet identification challenges have hampered investigation in the congressional context. I employ a close primaries regression discontinuity design to examine how "as-if random" nominations of extreme versus moderate House candidates influence general election contributions from individual donors and corporate PACs from 1980 to 2020. Results at both the nominee and contributor levels demonstrate that corporate PACs financially penalize extremists while individual donors respond similarly to extreme and moderate candidates. These findings contribute to ongoing debates regarding the extent and nature of campaign contributors' role in congressional polarization.</i>
 </details>
 
+
+&nbsp;  
+
 ---
-&nbsp;
+
 
 Meisels, Mellissa. 2025. **Strategic Campaign Attention to Abortion Before and After** ***Dobbs.*** *Proceedings of the National Academy of Sciences* 122(20): e2503080122.
 [PDF](/files/dobbs-pnas.pdf){: .btn--research} [Publisher](https://doi.org/10.1073/pnas.2503080122){: .btn--research} [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYE7FR){: .btn--research}
