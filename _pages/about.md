@@ -113,7 +113,14 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 &nbsp;  
 
 ---
+**The Increasing Importance of Congressional Primary Elections** [Chapter](/files/primaries_chapter.pdf){: .btn--research}
 
+* Invited chapter in 3rd edition of *New Directions in Congressional Politics*
+
+
+&nbsp;  
+
+---
 **Competition and Free-Riding in Electoral Campaigns with Outside Spending** (with [Brenton Kenkel](https://bkenkel.com/))
 
 * Presentations: MPSA 2022, APSA MIP Pre-Conference 2022, APSA 2022, Virtual Formal Theory Workshop 2023
@@ -132,7 +139,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 ---
 **Intraparty Candidate Divergence and Primary Participation**
 
-* Presentations: CBS-Princeton Money in Politics Conference 2026, APSA 2026
+* Presentations: CBS-Princeton Money in Politics Conference 2026, PolMeth 2026, APSA 2026
 
 
 &nbsp;  
