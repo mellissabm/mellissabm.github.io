@@ -21,7 +21,9 @@ redirect_from:
   - /cv/
 ---
 
-Welcome! I am an Assistant Professor in the Department of Political Science at the University of Michigan. My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices of candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. To do so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models. My research is published in *Proceedings of the National Academy of Sciences, Journal of Politics, British Journal of Political Science*, and *Political Science Research and Methods* and has received awards from the Political Organizations and Parties (POP) section of the American Political Science Association.
+Welcome! I am an Assistant Professor in the Department of Political Science at the University of Michigan. 
+
+My research centers on the U.S. Congress, money in politics, electoral campaigns, and political organizations. Much of this work investigates the strategic choices of candidates and financial contributors in congressional campaigns, with an emphasis on primary elections. To do so, I employ original data, natural language processing, causal inference tools, experiments, and structural estimation of formal models. My research is published in *Proceedings of the National Academy of Sciences, Journal of Politics, British Journal of Political Science*, and *Political Science Research and Methods* and has received awards from the Political Organizations and Parties (POP) section of the American Political Science Association.
 
 Previously, I was an Assistant Professor of Political Science at Yale University, where I was affiliated with the Institution for Social and Policy Studies (ISPS) and the Center for the Study of American Politics (CSAP) after a CSAP postdoctoral fellowship. I received my Ph.D. in Political Science at Vanderbilt University, where I was affiliated with the Center for the Study of Democratic Institutions (CSDI), and I graduated *magna cum laude* with a B.A. in political science from UCLA. I am originally from Portland, Oregon.
 
@@ -83,7 +85,7 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 ---
 
        
-# Papers
+# Working Papers & Works in Progress {#papers}
 
 **Campaign Agendas and Issue Group Strategy in Intraparty Elections** *(Revise and resubmit, Quarterly Journal of Political Science)* [Paper](/files/Meisels_CampaignIssueGroups.pdf){: .btn--research}
 

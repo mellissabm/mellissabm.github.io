@@ -117,12 +117,9 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
-  cursor: pointer;
 
   li:last-child {
     a {
@@ -133,72 +130,23 @@
   @include breakpoint($large) {
     display: block;
   }
-
-  button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  /* !important: theme JS inline-hides this list on small screens now that the
+     Follow toggle button is removed; keep it always visible instead */
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 2px 16px;
+  margin: 10px 0 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
-    position: relative;
+    display: block !important;
     margin: 0;
     padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
   }
 
   li {
@@ -212,11 +160,36 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 1.25em;
     text-decoration: none;
+
+    @include breakpoint($large) {
+      font-size: $type-size-5;
+    }
 
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+
+/*
+   Sidebar link visibility (icons-only on mobile)
+   ========================================================================== */
+
+.author__location {
+  display: none;
+
+  @include breakpoint($large) {
+    display: list-item;
+  }
+}
+
+.author__url-label {
+  display: none;
+
+  @include breakpoint($large) {
+    display: inline;
   }
 }

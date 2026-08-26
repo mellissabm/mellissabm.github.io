@@ -1,0 +1,35 @@
+{% if site.analytics.provider == "google" and page.url == "/" %}
+<script>
+  /* Per-section virtual pageviews: lets Google Analytics report visits to each
+     section of this one-page site as if they were separate pages. */
+  (function () {
+    var sections = [
+      { id: "publications", path: "/sections/publications", title: "Publications" },
+      { id: "papers", path: "/sections/working-papers", title: "Working Papers & Works in Progress" },
+      { id: "teaching", path: "/sections/teaching", title: "Teaching" }
+    ];
+    if (!("IntersectionObserver" in window)) return;
+    var last = null;
+    function fire(s) {
+      if (last === s.id || typeof gtag !== "function") return;
+      last = s.id;
+      gtag("event", "page_view", {
+        page_location: "{{ site.url }}" + s.path,
+        page_title: s.title + " | {{ site.title }}"
+      });
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        for (var i = 0; i < sections.length; i++) {
+          if (sections[i].id === e.target.id) { fire(sections[i]); break; }
+        }
+      });
+    }, { rootMargin: "0px 0px -55% 0px", threshold: 0 });
+    sections.forEach(function (s) {
+      var el = document.getElementById(s.id);
+      if (el) io.observe(el);
+    });
+  })();
+</script>
+{% endif %}
