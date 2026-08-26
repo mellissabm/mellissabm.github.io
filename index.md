@@ -147,6 +147,14 @@ Meisels, Mellissa, [Joshua D. Clinton](https://www.joshclinton.com/), and [Grego
 &nbsp;  
 
 ---
+**Do Participatory Campaign Finance Reforms Polarize? Evidence from the Seattle Democracy Voucher Program** (with [Michael Kistner](https://michaelrkistner.com/), Lautaro Cruz, and [Kolbe Dumas](https://kolbedumas.com/))
+
+* Presentations: APSA 2026
+
+
+&nbsp;  
+
+---
 
 # Teaching
 
