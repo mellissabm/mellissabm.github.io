@@ -5,5 +5,19 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.analytics.google.tracking_id }}');
+  gtag('config', '{{ site.analytics.google.tracking_id }}', { page_location: document.location.href });
+
+  (function () {
+    if (!window.history || !history.replaceState || !location.search) return;
+    if (!/[?&]utm_/i.test(location.search)) return;
+    var params = new URLSearchParams(location.search);
+    var keys = Array.from(params.keys());
+    var changed = false;
+    for (var i = 0; i < keys.length; i++) {
+      if (/^utm_/i.test(keys[i])) { params.delete(keys[i]); changed = true; }
+    }
+    if (!changed) return;
+    var qs = params.toString();
+    history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+  })();
 </script>
